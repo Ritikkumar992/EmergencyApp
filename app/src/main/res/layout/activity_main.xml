@@ -17,7 +17,7 @@
             android:id="@+id/tv_restAppBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ProjectGurukul Emergency Application"
+            android:text="Emergency App"
             android:textAlignment="center"
             android:textColor="@color/textColor"
             android:textSize="20sp"
